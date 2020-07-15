@@ -1,0 +1,102 @@
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\SarasaviLibrary.dll.config
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\SarasaviLibrary.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\SarasaviLibrary.pdb
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Antlr3.Runtime.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\AspNet.ScriptManager.jQuery.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.SqlServer.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Google.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Web.Infrastructure.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Newtonsoft.Json.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Owin.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\System.Web.Optimization.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\System.Web.Providers.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\WebGrease.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\System.Web.Optimization.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Antlr3.Runtime.pdb
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Newtonsoft.Json.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.SqlServer.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Google.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.dll
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.pdb
+E:\Assignment\ASP.Net\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.csprojResolveAssemblyReference.cache
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\SarasaviLibrary.dll.config
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\SarasaviLibrary.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\SarasaviLibrary.pdb
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Antlr3.Runtime.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\AspNet.ScriptManager.bootstrap.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\AspNet.ScriptManager.jQuery.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.SqlServer.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Google.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.ScriptManager.WebForms.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Web.Infrastructure.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Newtonsoft.Json.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Owin.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\System.Web.Optimization.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\System.Web.Providers.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\WebGrease.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\System.Web.Optimization.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Antlr3.Runtime.pdb
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Newtonsoft.Json.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\EntityFramework.SqlServer.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Google.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.csprojResolveAssemblyReference.cache
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.dll
+F:\VS 15 Development\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.pdb
